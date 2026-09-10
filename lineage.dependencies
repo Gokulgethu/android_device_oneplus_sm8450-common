@@ -1,22 +1,18 @@
 [
   {
-    "repository": "Gokulgethu/android_hardware_oplus",
-    "target_path": "hardware/oplus",
-    "branch": "main"
+    "repository": "android_hardware_oplus",
+    "target_path": "hardware/oplus"
   },
   {
-    "repository": "Gokulgethu/android_kernel_oneplus_sm8475",
-    "target_path": "kernel/oneplus/sm8475",
-    "branch": "main"
+    "repository": "android_kernel_oneplus_sm8450",
+    "target_path": "kernel/oneplus/sm8450"
   },
   {
-    "repository": "Gokulgethu/android_vendor_oneplus_sm8450-common",
-    "target_path": "vendor/oneplus/sm8450-common",
-    "branch": "main"
+    "repository": "android_kernel_oneplus_sm8450-devicetrees",
+    "target_path": "kernel/oneplus/sm8450-devicetrees"
   },
   {
-    "repository": "Gokulgethu/hardware_dolby",
-    "target_path": "hardware/dolby",
-    "branch": "main"
+    "repository": "android_kernel_oneplus_sm8450-modules",
+    "target_path": "kernel/oneplus/sm8450-modules"
   }
 ]
