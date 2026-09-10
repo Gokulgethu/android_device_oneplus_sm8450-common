@@ -469,9 +469,9 @@ vendor/firmware/evass-lt-21.b15|da39a3ee5e6b4b0d3255bfef95601890afd80709
 vendor/firmware/evass-lt-21.b16|da39a3ee5e6b4b0d3255bfef95601890afd80709
 vendor/firmware/evass-lt-21.b17|da39a3ee5e6b4b0d3255bfef95601890afd80709
 vendor/firmware/evass-lt-21.b18|1ceaf73df40e531df3bfb26b4fb7cd95fb7bff1d
-vendor/firmware/evass-lt-21.b19|122c6265d19872dfcc5ea346afc953cf7a2f9b7c
-vendor/firmware/evass-lt-21.mbn|ee57e8941b3c7a6c7133a991cb9e1218a16895ee
-vendor/firmware/evass-lt-21.mdt|ad63286204897a17afc709fae36e2543ad99a3b2
+vendor/firmware/evass-lt-21.b19|c2e6d97ae100779874369526ace8cd803e0511c1
+vendor/firmware/evass-lt-21.mbn|a839a88db2676fc50b0506149bda490924ec477d
+vendor/firmware/evass-lt-21.mdt|40dc60306f1d9b39cfde8adc47728568cde8b7ef
 vendor/firmware/evass.b00|7140de8ce22d55c1d0d5d1a225dd78129a84588d
 vendor/firmware/evass.b01|7474fe6a28c72ee8dcc183ea3fd016df56cc512d
 vendor/firmware/evass.b02|25ed4c716c99918229c6e2d15d45f1f1593e7f85
@@ -491,9 +491,9 @@ vendor/firmware/evass.b15|da39a3ee5e6b4b0d3255bfef95601890afd80709
 vendor/firmware/evass.b16|da39a3ee5e6b4b0d3255bfef95601890afd80709
 vendor/firmware/evass.b17|da39a3ee5e6b4b0d3255bfef95601890afd80709
 vendor/firmware/evass.b18|1ceaf73df40e531df3bfb26b4fb7cd95fb7bff1d
-vendor/firmware/evass.b19|4823275f8ef5eaa6e39b832f3517cf9e3f16a197
-vendor/firmware/evass.mbn|2a65918e1b2d68038af97947e3ef36a2a00f2d82
-vendor/firmware/evass.mdt|50f86e6a3bc05b6a8d61b272b3d2cb4254670504
+vendor/firmware/evass.b19|fe2a18d2f1b7a1013a2b1aca2a466f11a22c227d
+vendor/firmware/evass.mbn|46652da72050226ba5ddaabf9845f4a694a7da01
+vendor/firmware/evass.mdt|96a1d928f2149993e145a85b4d3144eb13dce586
 vendor/firmware/evautil64.b00|bc77e57c5c72ab2c26b351a9359218a3b6aa9b40
 vendor/firmware/evautil64.b01|59bf10bf9ec774543a8c091003bed52dcb6bb7e8
 vendor/firmware/evautil64.b02|3dc8148dd469fba30fea6b0e0fbbcc934d9465b0
@@ -540,10 +540,10 @@ vendor/lib64/libllvm-qgl.so|c1d53fb4f21e151da2559f9202816bd4250bf4c9
 vendor/firmware/a730_sqe.fw|920d6db39c8852be3a898d782b58378a39629ec6
 vendor/firmware/a730_zap.b00|28f16046445905a96e7115f5aa8f49748658c437
 vendor/firmware/a730_zap.b01|1234230fde1dfa01822a7c64b200e58fd34dfd86
-vendor/firmware/a730_zap.b02|778b7f8fd6264acc98b5b77a35517958e211d091
-vendor/firmware/a730_zap.elf|0f5c04beff8a402f9ca52e4a69544eb6bfbf4c30
+vendor/firmware/a730_zap.b02|94bafb2cccb8668efd0c77fe9a1d02174bc9db10
+vendor/firmware/a730_zap.elf|6b3bcecae0eff82a75c33121f3c8d16ec583f18b
 vendor/firmware/a730_zap.mbn|d933ff6da090490b984968e2e41b5148bf2f7d02
-vendor/firmware/a730_zap.mdt|caf1fc99079910947e6ea26cbfec983d5e78b8a4
+vendor/firmware/a730_zap.mdt|eaee34681939825edf9297ff305a871936f7281e
 vendor/firmware/gmu_gen70000.bin|1ac8d9dd3d405f84c915a4562ff72d244e10bcbd
 vendor/gpu/kbc/sequence_manifest.bin|17e1f9149826ef478502c750bcf9352274097c80
 vendor/gpu/kbc/unified_kbcs_64.bin|bdfadc6b8e03d7da5b8d31b4f7688e7dba4b07ce
@@ -600,7 +600,7 @@ vendor/lib64/libgarden.so|a6d924e734d1fdc3699d2e638d0c4a1bed9037f1|00d00e39cedc2
 vendor/lib64/libgarden_haltests_e2e.so|f49ce4ea9cee39eda11447a288d2c860ebed2b2e|febf66fd36be42642dd376cb97bcb24c1023e0cc
 vendor/lib64/libgdtap.so|09397bb836654c9fecb2746e90271a63d5c5b80c
 vendor/lib64/libgeofencing.so|be18eaee53b6491059d927a9bd1aa03df02b2abe
-vendor/lib64/libgnss.so|41f511db188699f10c5d8a133466a50a8c1fcc60
+vendor/lib64/libgnss.so|756d6cd1e0dd036895172a625311eee4206c1efa
 vendor/lib64/libgnsspps.so|2d87ca3cc1837b0e7f4c6f2aff2afd52d3038bc6
 vendor/lib64/libgps.utils.so|d1f617095aff5050c196d9a1dbc3b403623a51b4
 vendor/lib64/libizat_client_api.so|3dbc7a2d878544a7a0ed1fe44db5f6c022663c83
@@ -661,7 +661,7 @@ system_ext/lib64/vendor.qti.ImsRtpService-V1-ndk.so|21832897ab986fcf58dbf6d2a1be
 system_ext/lib64/vendor.qti.ImsRtpService-V2-ndk.so|d3f38714174fd3edaf226fcb787a4173490ab9fc
 system_ext/lib64/vendor.qti.imsrtpservice@3.0.so|b65fc57443ca18c8300fd5e673b219b709612c93
 system_ext/lib64/vendor.qti.imsrtpservice@3.1.so|2200adf5cef0030cdba135fa639fc8d5245a6ea6
-system_ext/priv-app/ims/ims.apk|32dc22c3a5f9df72f97742707f5f4fb4cb1ad98e
+system_ext/priv-app/ims/ims.apk|86c3c22cf0cfc3bcd62f9137f66886b539170c1a
 vendor/bin/ims_rtp_daemon|712047be19a04a2fb60119d157c68de08601a8be
 vendor/bin/imsdaemon|13a42c6ae90a6035a3a1975ca00f371420fc3e88
 vendor/etc/init/ims_rtp_daemon.rc|06510e936890f51aeb76f2cf3ed5dbe45e67ac20
@@ -729,7 +729,7 @@ vendor/etc/msm_irqbalance.conf|8394994bad2c8e32b2a04cae58b5af9c44425b6e|72cfaf09
 
 # Kernel
 vendor/bin/init.kernel.post_boot-cape.sh|7c870d061ab30e7a52c30382f499d27af1090925
-vendor/bin/init.kernel.post_boot-taro.sh|2195380f922f92a892647911358f6c8b7a1f5f6d
+vendor/bin/init.kernel.post_boot-taro.sh|894e9826b746f7607f21c11111ac6ef10b39ec96
 vendor/bin/init.kernel.post_boot.sh|0e77df788fb33251bf1bb485512a6d735f36a741
 vendor/bin/init.qti.kernel.sh|1c17e31a8edfc0b188802d280af9a85038f96b60
 vendor/bin/vendor_modprobe.sh|d81079204bc22713b28a12e49bd19559b191cf03
@@ -1300,7 +1300,7 @@ vendor/lib64/vendor.qti.hardware.vpp@2.0.so|8345478f7869eccc4a05931a4f1cfd449605
 # VPU firmware
 vendor/firmware/vpu20_1v.mbn|c346c60498d85dab5e50439b915d2b1769701067
 vendor/firmware/vpu20_1v_unsigned.mbn|0e9fe4b794472a9850209befae0b5b5581e6fda6
-vendor/firmware/vpu20_4v.mbn|cfa9028204061bd3c27ffc105412184c5833bbde
+vendor/firmware/vpu20_4v.mbn|a300d25655a01b15cc863df4301b270adac645f4
 vendor/firmware/vpu20_4v_unsigned.mbn|c52354927ff53145369f024f6eed809d0ddc458c
 
 # Widevine DRM
@@ -1339,7 +1339,7 @@ system_ext/lib64/libwfddisplayconfig.so|53d07be91f77238203a54551fef6c262d35e42dd
 system_ext/lib64/libwfdmminterface.so|54dd1303dbd891819028dd955f743b29c7439f46
 system_ext/lib64/libwfdmmsink.so|87459346c99a4cbc162810f02be9de7cf71dbf20
 system_ext/lib64/libwfdmmsrc_system.so|8c153c5ef0a7e011c5545fea6d7265bb352363d7
-system_ext/lib64/libwfdnative.so;SYMLINK=system_ext/priv-app/WfdService/lib/arm64/libwfdnative.so|93148488c48b450e2c1615c5a298cd96f0104691|0dd8cb9942431f9962bdc2b8738457cd9a7f4df9
+system_ext/lib64/libwfdnative.so;SYMLINK=system_ext/priv-app/WfdService/lib/arm64/libwfdnative.so|93148488c48b450e2c1615c5a298cd96f0104691|9de1f48fb3cd202d5bcb3ef1dce72cded25d7fea
 system_ext/lib64/libwfdrtsp.so|debde37cd38d3a4bfc29b87f49602c59d8e8b220
 system_ext/lib64/libwfdservice.so|39bdbb25c078d7de4de67c9d50867c2d2d16e1af
 system_ext/lib64/libwfdsinksm.so|d749dbe9e57fd6635528f22df1660e6938cb68f7
