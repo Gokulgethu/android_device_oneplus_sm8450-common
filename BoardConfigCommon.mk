@@ -57,7 +57,7 @@ TARGET_VENDOR_PROP += $(COMMON_PATH)/vendor.prop
 TARGET_FS_CONFIG_GEN := $(COMMON_PATH)/config.fs
 
 # Kernel
-KERNEL_PATH := device/oneplus/wly-kernel
+KERNEL_PATH := device/oneplus/udon-kernel
 
 # Kernel Binary
 TARGET_KERNEL_VERSION := 5.10

@@ -55,6 +55,11 @@ void vendor_load_properties() {
         case 20821: // IN
             OverrideProperty("ro.product.product.model", "MT2111");
             break;
+        // udon
+        case 22881: // IN
+            OverrideProperty("ro.product.product.model", "CPH2487");
+            break;
+
         // wly
         case 20846: // CN
             OverrideProperty("ro.product.product.model", "NE2210");
